@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "Nara Picture",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyB6evPaP4cxe7tlbS9qRX36jaPR7cGH3dQ"
 };
